@@ -4,6 +4,11 @@ WADark is an phishing tool designed to capture OTP codes from WhatsApp web sessi
 
 > **Warning:** This tool is intended for educational purposes only. Unauthorized use of this tool to access someone's account without permission is illegal and unethical. Use responsibly.
 
+```bash
+Dev: LSDeep - v1.0.0
+www.htdark.com
+Contact: https://t.me/lsd33p
+```
 ## Features
 
 - **Phishing via OTP**: Capture OTP codes during the WhatsApp web login process.
@@ -55,12 +60,6 @@ WADark is an phishing tool designed to capture OTP codes from WhatsApp web sessi
 2. WhatsApp Web Automation: The tool uses Selenium to navigate through the WhatsApp web interface.
 3. OTP Extraction: A screenshot of the OTP area is taken, and the OTP is extracted using Tesseract OCR.
 4. Data Logging: User details, OTP code, and other information are logged to a text file for analysis.
-
-```bash
-Dev: LSDeep - v1.0.0
-www.htdark.com
-Contact: https://t.me/lsd33p
-```
 
 ## Contribution
 

@@ -62,7 +62,3 @@ Run the tool using the command:
 
 ## 🤝 Contribution
 Feel free to fork this repository and contribute by submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📄 Legal Disclaimer
-```bash
-WADark is developed for educational and testing purposes only. Any misuse of this tool, such as unauthorized access to data, is illegal and punishable by law. The developers are not responsible for any misuse or damage caused by this tool.

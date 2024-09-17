@@ -59,6 +59,7 @@ WADark is an phishing tool designed to capture OTP codes from WhatsApp web sessi
 ```bash
 Dev: LSDeep - v1.0.0
 www.htdark.com
+Contact: https://t.me/lsd33p
 ```
 
 ## Contribution

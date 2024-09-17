@@ -28,7 +28,7 @@ Contact: https://t.me/lsd33p
 
 1. **Clone the Repository** 📂
    ```bash
-   git clone https://github.com/yourusername/WADark.git
+   git clone [https://github.com/cyb3rhex/WADark.git](https://github.com/cyb3rhex/WADark)
    cd WADark
    ```
    

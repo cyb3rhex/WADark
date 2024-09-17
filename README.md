@@ -28,7 +28,7 @@ Contact: https://t.me/lsd33p
 
 1. **Clone the Repository** 📂
    ```bash
-   git clone https://github.com/yourusername/WADark.git
+   git clone [https://github.com/yourusername/WADark.git]
    cd WADark
    ```
    
@@ -38,7 +38,7 @@ Contact: https://t.me/lsd33p
    source venv/bin/activate
    ```
 
-3. **nstall Dependencies 📦**
+3. **Install Dependencies 📦**
    ```bash
    pip install -r requirements.txt
    ```
@@ -64,4 +64,5 @@ Run the tool using the command:
 Feel free to fork this repository and contribute by submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📄 Legal Disclaimer
+```bash
 WADark is developed for educational and testing purposes only. Any misuse of this tool, such as unauthorized access to data, is illegal and punishable by law. The developers are not responsible for any misuse or damage caused by this tool.

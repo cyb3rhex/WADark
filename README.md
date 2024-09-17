@@ -60,5 +60,8 @@ Run the tool using the command:
 3. 🔍 OTP Extraction: A screenshot of the OTP area is taken, and the OTP is extracted using Tesseract OCR.
 4. 📊 Data Logging: User details, OTP code, and other information are logged to a text file for analysis.
 
+## Demo
+https://github.com/user-attachments/assets/51e68c86-76bf-4384-a7a3-5e9d05e0a67e
+
 ## 🤝 Contribution
 Feel free to fork this repository and contribute by submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
